@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Project Venus](https://github.com/rafalaranja/projectvenus)
 
-- 🌱 I’m currently learning **JavaScript / React**
+- 🌱 I’m currently learning **React**
 
 - ⚡ Fun fact **I also love programming videogames**
 
@@ -16,20 +16,32 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<h5>Web Development</h5>
 
-<!-- Web Dev -->
-<p align="left"> 
+<p align="left">
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafalaranja&show_icons=true&locale=en&layout=compact" alt="rafalaranja" /></p>
+<h5>Others</h5>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafalaranja&show_icons=true&locale=en" alt="rafalaranja" /></p>
+<p align="left">
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+</p>
+
+<hr>
+
+<p><img align="left" height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafalaranja&show_icons=true&locale=en&layout=compact" alt="rafalaranja" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rafalaranja&show_icons=true&locale=en" alt="rafalaranja" /></p>
 
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafalaranja&" alt="rafalaranja" /></p>
