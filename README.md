@@ -39,7 +39,7 @@
 
 <hr>
 
-<p><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafalaranja&show_icons=true&locale=en&layout=compact" alt="rafalaranja" /></p>
+<p><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafalaranja&show_icons=true&locale=en&layout=compact" alt="rafalaranja" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rafalaranja&show_icons=true&locale=en" alt="rafalaranja" /></p>
 
