@@ -39,8 +39,8 @@
 
 <hr>
 
-<p><img align="left" width="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafalaranja&show_icons=true&locale=en&layout=compact" alt="rafalaranja" /></p>
+<p><img align="left" height="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafalaranja&show_icons=true&locale=en&layout=compact" alt="rafalaranja" /></p>
 
-<p>&nbsp;<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=rafalaranja&show_icons=true&locale=en" alt="rafalaranja" /></p>
+<p>&nbsp;<img align="right" height="100" src="https://github-readme-stats.vercel.app/api?username=rafalaranja&show_icons=true&locale=en" alt="rafalaranja" /></p>
 
-<p><img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=rafalaranja&" alt="rafalaranja" /></p>
+<p><img align="center" height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=rafalaranja&" alt="rafalaranja" /></p>
