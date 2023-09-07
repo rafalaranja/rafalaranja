@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Project Venus](https://github.com/rafalaranja/projectvenus)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vue.js**
 
 - ⚡ Fun fact **I also love programming videogames**
 
